@@ -1,0 +1,44 @@
+body {
+  font-family: 'Lora', serif;
+  padding: 0px;
+  margin: 0px;
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 38px;
+  font-style: 900;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.banner {
+  background-image: url("https://unsplash.it/1000/500");
+  background-size: cover;
+  /*width: 100%;*/
+  text-align: justify;
+  color: white;
+  padding: 140px 0;
+}
+
+.container {
+  padding-top: 20px;
+}
+
+.banner h2 {
+  font-weight: lighter;
+  font-style: italic;
+}
+
+.container h2 {
+  color: rgba(190, 190, 190, 1);
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+
+h1, h2, h3, p {
+  padding: 10px 25%;
+}
+
+p {
+  line-height: 1.6em;
+}
